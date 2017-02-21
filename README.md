@@ -3,3 +3,4 @@ VIPER architecture example for Android applications. This is not a template and 
 
 
 # NOT FINISHED YET
+# NOT WORKING, PLEASE MOVE ALONG:)
